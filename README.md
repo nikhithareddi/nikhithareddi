@@ -1,4 +1,4 @@
-### Hola,
+### Hola 👋,
 
 
 - 🔭 I’m a Master's student in CS
