@@ -1,9 +1,7 @@
 ### Hi there
 
 
-- 🔭 I’m currently pursuing Master's in CS
-- 🌱 I’m currently learning Python and source code management 
-- 🤔 I’m looking for help with python projects
-- 💬 Ask me about c programs
+- 🔭 I’m a Master's student in CS
+- 🤔 I’m looking for help with Python projects
 - 📫 How to reach me: srinikhitha2605@gmail.com
 
